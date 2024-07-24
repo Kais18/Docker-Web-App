@@ -1,3 +1,7 @@
+# Docker containarized Application
+Where a Web Application is completely containarized using Docker using images such as *Tomcat, MySQL, Nginx* are containarized and runned on an EC2 Instance from AWS
+
+
 ## Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
@@ -22,3 +26,7 @@ Then look for the file :
 - > mysql -u <user_name> -p accounts < accountsdb.sql
 
 
+# Author
+- Twitter: [@kaissssssss08](https://twitter.com/kaissssssss08)
+- LinkedIn:[mohdkais](https://www.linkedin.com/in/mohdkais/)
+- Portfoli:[kaiswork.shop](https://www.kaiswork.shop)
